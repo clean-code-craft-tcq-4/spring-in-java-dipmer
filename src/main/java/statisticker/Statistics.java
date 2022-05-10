@@ -4,9 +4,9 @@ import java.util.*;
 
 public class Statistics 
 {
-    public static Stats getStatistics(List<___> numbers) {
+    /*public static Stats getStatistics(List<Float> numbers) {
         //implement the computation of statistics here
-    }
+    }*/
     public static class Stats 
     {
         Float min, average, max;
